@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vitor Alcantara
-- 👀 I’m interested in using Computer Science to the good of humanity
+- 👀 I’m interested in using Computer Science to build useful apps
 - 🌱 I’m currently learning Deep Learning for NLP 
 - 📫 You can reach me in:
 <a href="https://www.linkedin.com/in/vabatista/"><img src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-Logo-1.png" widht="100" height="40" /></a>
